@@ -1,0 +1,404 @@
+2018-10-19 10:23:05,341 - root - INFO - ############################### START ###############################
+2018-10-19 10:23:12,447 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 7.1000587940216064 seconds
+2018-10-19 10:23:15,972 - root - INFO - SUCCESS    Set browser window maximized, Spend 3.5171926021575928 seconds
+2018-10-19 10:23:16,707 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.7232620716094971 seconds
+2018-10-19 10:23:16,890 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.1779768466949463 seconds
+2018-10-19 10:23:17,177 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.2763986587524414 seconds
+2018-10-19 10:23:19,200 - root - INFO - SUCCESS    Get current window title, Spend 0.004510164260864258 seconds
+2018-10-19 10:23:20,740 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.5304620265960693 seconds
+2018-10-19 10:23:20,744 - root - INFO - ###############################  End  ###############################
+2018-10-19 10:23:20,749 - root - INFO - ############################### START ###############################
+2018-10-19 10:23:26,011 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.255404710769653 seconds
+2018-10-19 10:23:29,532 - root - INFO - SUCCESS    Set browser window maximized, Spend 3.513899326324463 seconds
+2018-10-19 10:23:30,138 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.5725734233856201 seconds
+2018-10-19 10:23:30,319 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: webdriver, Spend 0.17597174644470215 seconds
+2018-10-19 10:23:30,622 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.2850327491760254 seconds
+2018-10-19 10:23:32,641 - root - INFO - SUCCESS    Get current window title, Spend 0.012534379959106445 seconds
+2018-10-19 10:23:32,865 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.2177143096923828 seconds
+2018-10-19 10:23:32,999 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: selenium, Spend 0.1218264102935791 seconds
+2018-10-19 10:23:33,288 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.2755262851715088 seconds
+2018-10-19 10:23:35,305 - root - INFO - SUCCESS    Get current window title, Spend 0.0035059452056884766 seconds
+2018-10-19 10:23:35,560 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.24913930892944336 seconds
+2018-10-19 10:23:35,671 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: github, Spend 0.10428118705749512 seconds
+2018-10-19 10:23:35,942 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.2527625560760498 seconds
+2018-10-19 10:23:37,982 - root - INFO - SUCCESS    Get current window title, Spend 0.008564233779907227 seconds
+2018-10-19 10:23:38,879 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.8831202983856201 seconds
+2018-10-19 10:23:39,042 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.1534123420715332 seconds
+2018-10-19 10:23:39,311 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.255756139755249 seconds
+2018-10-19 10:23:41,337 - root - INFO - SUCCESS    Get current window title, Spend 0.0075283050537109375 seconds
+2018-10-19 10:23:42,556 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.2003755569458008 seconds
+2018-10-19 10:23:42,560 - root - INFO - ###############################  End  ###############################
+2018-10-19 10:23:56,724 - root - INFO - ############################### START ###############################
+2018-10-19 10:24:02,583 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.852086305618286 seconds
+2018-10-19 10:24:06,096 - root - INFO - SUCCESS    Set browser window maximized, Spend 3.5070199966430664 seconds
+2018-10-19 10:24:06,787 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.6761844158172607 seconds
+2018-10-19 10:24:06,981 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.1880035400390625 seconds
+2018-10-19 10:24:07,261 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.2627286911010742 seconds
+2018-10-19 10:24:09,291 - root - INFO - SUCCESS    Get current window title, Spend 0.010161161422729492 seconds
+2018-10-19 10:24:10,394 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0886733531951904 seconds
+2018-10-19 10:24:10,398 - root - INFO - ###############################  End  ###############################
+2018-10-19 10:24:10,403 - root - INFO - ############################### START ###############################
+2018-10-19 10:24:15,658 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 5.246377468109131 seconds
+2018-10-19 10:24:19,209 - root - INFO - SUCCESS    Set browser window maximized, Spend 3.519162893295288 seconds
+2018-10-19 10:24:19,792 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.5468466281890869 seconds
+2018-10-19 10:24:19,982 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: webdriver, Spend 0.18499469757080078 seconds
+2018-10-19 10:24:20,430 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.43607211112976074 seconds
+2018-10-19 10:24:22,463 - root - INFO - SUCCESS    Get current window title, Spend 0.00751948356628418 seconds
+2018-10-19 10:24:22,714 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.23784351348876953 seconds
+2018-10-19 10:24:22,846 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: selenium, Spend 0.1223299503326416 seconds
+2018-10-19 10:24:23,128 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.26287245750427246 seconds
+2018-10-19 10:24:25,153 - root - INFO - SUCCESS    Get current window title, Spend 0.007401466369628906 seconds
+2018-10-19 10:24:25,401 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.23301029205322266 seconds
+2018-10-19 10:24:25,518 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: github, Spend 0.10377931594848633 seconds
+2018-10-19 10:24:25,780 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.2530214786529541 seconds
+2018-10-19 10:24:27,802 - root - INFO - SUCCESS    Get current window title, Spend 0.007531642913818359 seconds
+2018-10-19 10:24:28,235 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.41993212699890137 seconds
+2018-10-19 10:24:28,400 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.14839625358581543 seconds
+2018-10-19 10:24:28,673 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.256023645401001 seconds
+2018-10-19 10:24:30,705 - root - INFO - SUCCESS    Get current window title, Spend 0.008866548538208008 seconds
+2018-10-19 10:24:31,951 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.2265844345092773 seconds
+2018-10-19 10:24:31,955 - root - INFO - ###############################  End  ###############################
+2018-10-19 10:42:57,708 - root - INFO - ############################### START ###############################
+2018-10-19 10:43:00,402 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.68782901763916 seconds
+2018-10-19 10:43:01,567 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.156965970993042 seconds
+2018-10-19 10:43:02,158 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.5850212574005127 seconds
+2018-10-19 10:43:02,437 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.2672727108001709 seconds
+2018-10-19 10:43:02,592 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.14087605476379395 seconds
+2018-10-19 10:43:04,608 - root - INFO - SUCCESS    Get current window title, Spend 0.005953311920166016 seconds
+2018-10-19 10:43:06,801 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1822025775909424 seconds
+2018-10-19 10:43:06,819 - root - INFO - ###############################  End  ###############################
+2018-10-19 10:43:06,835 - root - INFO - ############################### START ###############################
+2018-10-19 10:43:09,116 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.2699334621429443 seconds
+2018-10-19 10:43:10,264 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.142878770828247 seconds
+2018-10-19 10:43:10,820 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.5419442653656006 seconds
+2018-10-19 10:43:11,092 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: webdriver, Spend 0.2637021541595459 seconds
+2018-10-19 10:43:11,197 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.09776091575622559 seconds
+2018-10-19 10:43:13,220 - root - INFO - SUCCESS    Get current window title, Spend 0.009407281875610352 seconds
+2018-10-19 10:43:13,401 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.1649792194366455 seconds
+2018-10-19 10:43:13,680 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: selenium, Spend 0.2712233066558838 seconds
+2018-10-19 10:43:13,758 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.07018828392028809 seconds
+2018-10-19 10:43:15,774 - root - INFO - SUCCESS    Get current window title, Spend 0.0040111541748046875 seconds
+2018-10-19 10:43:15,914 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.1353616714477539 seconds
+2018-10-19 10:43:16,069 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: github, Spend 0.14638710021972656 seconds
+2018-10-19 10:43:16,167 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.08673596382141113 seconds
+2018-10-19 10:43:18,185 - root - INFO - SUCCESS    Get current window title, Spend 0.0030074119567871094 seconds
+2018-10-19 10:43:18,333 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.14288043975830078 seconds
+2018-10-19 10:43:18,518 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.1734607219696045 seconds
+2018-10-19 10:43:18,620 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.09475255012512207 seconds
+2018-10-19 10:43:20,646 - root - INFO - SUCCESS    Get current window title, Spend 0.013906717300415039 seconds
+2018-10-19 10:43:22,914 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.253619432449341 seconds
+2018-10-19 10:43:22,931 - root - INFO - ###############################  End  ###############################
+2018-10-19 11:33:57,741 - root - INFO - ############################### START ###############################
+2018-10-19 11:34:00,038 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.291959524154663 seconds
+2018-10-19 11:34:01,166 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1206984519958496 seconds
+2018-10-19 11:34:03,325 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1521823406219482 seconds
+2018-10-19 11:34:03,341 - root - INFO - ###############################  End  ###############################
+2018-10-19 11:34:03,356 - root - INFO - ############################### START ###############################
+2018-10-19 11:34:05,529 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.1631383895874023 seconds
+2018-10-19 11:34:06,691 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1551835536956787 seconds
+2018-10-19 11:34:08,881 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.172423839569092 seconds
+2018-10-19 11:34:08,898 - root - INFO - ###############################  End  ###############################
+2018-10-19 11:34:50,992 - root - INFO - ############################### START ###############################
+2018-10-19 11:34:53,201 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.2039575576782227 seconds
+2018-10-19 11:34:54,365 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1522841453552246 seconds
+2018-10-19 11:34:56,623 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2454166412353516 seconds
+2018-10-19 11:34:56,639 - root - INFO - ###############################  End  ###############################
+2018-10-19 11:34:56,662 - root - INFO - ############################### START ###############################
+2018-10-19 11:34:58,863 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.1772964000701904 seconds
+2018-10-19 11:35:00,026 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1507165431976318 seconds
+2018-10-19 11:35:02,189 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1474688053131104 seconds
+2018-10-19 11:35:02,206 - root - INFO - ###############################  End  ###############################
+2018-10-19 11:35:53,016 - root - INFO - ############################### START ###############################
+2018-10-19 11:35:55,207 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.1848111152648926 seconds
+2018-10-19 11:35:56,349 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1343369483947754 seconds
+2018-10-19 11:35:56,902 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.5419509410858154 seconds
+2018-10-19 11:35:57,144 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.23704290390014648 seconds
+2018-10-19 11:35:57,250 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.09575581550598145 seconds
+2018-10-19 11:35:59,265 - root - INFO - SUCCESS    Get current window title, Spend 0.0065174102783203125 seconds
+2018-10-19 11:36:01,455 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1844475269317627 seconds
+2018-10-19 11:36:01,465 - root - INFO - ###############################  End  ###############################
+2018-10-19 11:36:01,475 - root - INFO - ############################### START ###############################
+2018-10-19 11:36:03,673 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.186702251434326 seconds
+2018-10-19 11:36:04,835 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.152355432510376 seconds
+2018-10-19 11:36:05,377 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.5062315464019775 seconds
+2018-10-19 11:36:07,547 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1620492935180664 seconds
+2018-10-19 11:36:07,563 - root - INFO - ###############################  End  ###############################
+2018-10-19 11:37:30,438 - root - INFO - ############################### START ###############################
+2018-10-19 11:37:32,662 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.2191660404205322 seconds
+2018-10-19 11:37:33,783 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1153557300567627 seconds
+2018-10-19 11:37:34,391 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.6026065349578857 seconds
+2018-10-19 11:37:34,670 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.27272725105285645 seconds
+2018-10-19 11:37:34,772 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.0937504768371582 seconds
+2018-10-19 11:37:36,785 - root - INFO - SUCCESS    Get current window title, Spend 0.0040130615234375 seconds
+2018-10-19 11:37:38,969 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1773791313171387 seconds
+2018-10-19 11:37:38,985 - root - INFO - ###############################  End  ###############################
+2018-10-19 11:37:46,915 - root - INFO - ############################### START ###############################
+2018-10-19 11:37:49,084 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.1628596782684326 seconds
+2018-10-19 11:37:50,209 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1168172359466553 seconds
+2018-10-19 11:37:50,837 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.6151461601257324 seconds
+2018-10-19 11:37:53,024 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.181476354598999 seconds
+2018-10-19 11:37:53,041 - root - INFO - ###############################  End  ###############################
+2018-10-19 11:38:29,751 - root - INFO - ############################### START ###############################
+2018-10-19 11:38:31,943 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.1853458881378174 seconds
+2018-10-19 11:38:33,105 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1563589572906494 seconds
+2018-10-19 11:38:33,795 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.6778090000152588 seconds
+2018-10-19 11:38:35,962 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1582958698272705 seconds
+2018-10-19 11:38:35,971 - root - INFO - ###############################  End  ###############################
+2018-10-19 11:40:53,814 - root - INFO - ############################### START ###############################
+2018-10-19 11:40:56,072 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.252225637435913 seconds
+2018-10-19 11:40:57,235 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1550660133361816 seconds
+2018-10-19 11:40:57,822 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.5705952644348145 seconds
+2018-10-19 11:40:58,096 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.26773977279663086 seconds
+2018-10-19 11:40:58,194 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.08923673629760742 seconds
+2018-10-19 11:41:00,220 - root - INFO - SUCCESS    Get current window title, Spend 0.017073631286621094 seconds
+2018-10-19 11:41:02,462 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.225332260131836 seconds
+2018-10-19 11:41:02,478 - root - INFO - ###############################  End  ###############################
+2018-10-19 11:41:02,490 - root - INFO - ############################### START ###############################
+2018-10-19 11:41:04,745 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.2441482543945312 seconds
+2018-10-19 11:41:05,890 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.136556625366211 seconds
+2018-10-19 11:41:06,450 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.5484573841094971 seconds
+2018-10-19 11:41:06,692 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: webdriver, Spend 0.23412609100341797 seconds
+2018-10-19 11:41:06,795 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.09625744819641113 seconds
+2018-10-19 11:41:08,824 - root - INFO - SUCCESS    Get current window title, Spend 0.01755523681640625 seconds
+2018-10-19 11:41:09,000 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.15824127197265625 seconds
+2018-10-19 11:41:09,191 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: selenium, Spend 0.18248605728149414 seconds
+2018-10-19 11:41:09,267 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.06868362426757812 seconds
+2018-10-19 11:41:11,282 - root - INFO - SUCCESS    Get current window title, Spend 0.003512144088745117 seconds
+2018-10-19 11:41:11,422 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.13485980033874512 seconds
+2018-10-19 11:41:11,581 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: github, Spend 0.14789533615112305 seconds
+2018-10-19 11:41:11,672 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.08472824096679688 seconds
+2018-10-19 11:41:13,693 - root - INFO - SUCCESS    Get current window title, Spend 0.004011631011962891 seconds
+2018-10-19 11:41:13,836 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.13786864280700684 seconds
+2018-10-19 11:41:14,043 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.19602298736572266 seconds
+2018-10-19 11:41:14,120 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.07018733024597168 seconds
+2018-10-19 11:41:16,144 - root - INFO - SUCCESS    Get current window title, Spend 0.011346817016601562 seconds
+2018-10-19 11:41:18,374 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.215708017349243 seconds
+2018-10-19 11:41:18,391 - root - INFO - ###############################  End  ###############################
+2018-10-19 11:46:04,799 - root - INFO - ############################### START ###############################
+2018-10-19 11:46:07,103 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.297494888305664 seconds
+2018-10-19 11:46:08,253 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1446993350982666 seconds
+2018-10-19 11:46:09,034 - root - INFO - SUCCESS    Navigated to http://admin-html-staging.gchoicetech.com.cn:10083/login, Spend 0.7686891555786133 seconds
+2018-10-19 11:46:11,236 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1892740726470947 seconds
+2018-10-19 11:46:11,253 - root - INFO - ###############################  End  ###############################
+2018-10-19 11:49:36,219 - root - INFO - ############################### START ###############################
+2018-10-19 11:49:38,973 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.7495319843292236 seconds
+2018-10-19 11:49:40,131 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1502318382263184 seconds
+2018-10-19 11:49:41,224 - root - INFO - SUCCESS    Navigated to http://admin-html-staging.gchoicetech.com.cn:10083/login, Spend 1.0836548805236816 seconds
+2018-10-19 11:49:45,398 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.165398359298706 seconds
+2018-10-19 11:49:45,411 - root - INFO - ###############################  End  ###############################
+2018-10-19 13:49:23,680 - root - INFO - ############################### START ###############################
+2018-10-19 13:49:26,310 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.6242523193359375 seconds
+2018-10-19 13:49:27,435 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.116682529449463 seconds
+2018-10-19 13:49:28,817 - root - INFO - SUCCESS    Navigated to http://admin-html-staging.gchoicetech.com.cn:10083/login, Spend 1.372915267944336 seconds
+2018-10-19 13:49:33,037 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2082159519195557 seconds
+2018-10-19 13:49:33,051 - root - INFO - ###############################  End  ###############################
+2018-10-19 13:55:38,660 - root - INFO - ############################### START ###############################
+2018-10-19 13:55:40,854 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.189234733581543 seconds
+2018-10-19 13:55:41,997 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1355280876159668 seconds
+2018-10-19 13:55:43,196 - root - INFO - SUCCESS    Navigated to http://admin-html-staging.gchoicetech.com.cn:10083/login, Spend 1.1941919326782227 seconds
+2018-10-19 13:55:45,205 - root - INFO - FAIL    Unable to clear and type element: <//*[@id->app]/div/div/div[1]/input> content: admin, Spend 0.0 seconds
+2018-10-19 13:55:47,404 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.193845748901367 seconds
+2018-10-19 13:55:47,411 - root - INFO - ###############################  End  ###############################
+2018-10-19 14:05:45,874 - root - INFO - ############################### START ###############################
+2018-10-19 14:05:48,095 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.212141513824463 seconds
+2018-10-19 14:05:49,250 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1499032974243164 seconds
+2018-10-19 14:05:50,673 - root - INFO - SUCCESS    Navigated to http://admin-html-staging.gchoicetech.com.cn:10083/login, Spend 1.413923740386963 seconds
+2018-10-19 14:05:52,824 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="app"]/div/div/div[1]/input> content: admin, Spend 0.13564038276672363 seconds
+2018-10-19 14:05:52,960 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="app"]/div/div/div[2]/input> content: 123456, Spend 0.13085079193115234 seconds
+2018-10-19 14:05:53,068 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id='app']/div/div/div[3]/div/button>, Spend 0.09977006912231445 seconds
+2018-10-19 14:05:55,347 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.268498182296753 seconds
+2018-10-19 14:05:55,366 - root - INFO - ###############################  End  ###############################
+2018-10-19 14:07:38,784 - root - INFO - ############################### START ###############################
+2018-10-19 14:07:41,075 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.2858004570007324 seconds
+2018-10-19 14:07:42,235 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1532604694366455 seconds
+2018-10-19 14:07:43,325 - root - INFO - SUCCESS    Navigated to http://admin-html-staging.gchoicetech.com.cn:10083/login, Spend 1.0853006839752197 seconds
+2018-10-19 14:07:45,522 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="app"]/div/div/div[1]/input> content: admin, Spend 0.1862497329711914 seconds
+2018-10-19 14:07:45,623 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="app"]/div/div/div[2]/input> content: 123456, Spend 0.08893966674804688 seconds
+2018-10-19 14:07:45,697 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id='app']/div/div/div[3]/div/button>, Spend 0.06820201873779297 seconds
+2018-10-19 14:07:47,969 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2655818462371826 seconds
+2018-10-19 14:07:47,991 - root - INFO - ###############################  End  ###############################
+2018-10-19 14:08:03,690 - root - INFO - ############################### START ###############################
+2018-10-19 14:08:05,893 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.197092294692993 seconds
+2018-10-19 14:08:07,044 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1448421478271484 seconds
+2018-10-19 14:08:12,344 - root - INFO - SUCCESS    Navigated to http://admin-html-staging.gchoicetech.com.cn:10083/login, Spend 5.291327238082886 seconds
+2018-10-19 14:08:14,459 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="app"]/div/div/div[1]/input> content: admin, Spend 0.10578465461730957 seconds
+2018-10-19 14:08:14,564 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="app"]/div/div/div[2]/input> content: 123456, Spend 0.1007688045501709 seconds
+2018-10-19 14:08:14,648 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id='app']/div/div/div[3]/div/button>, Spend 0.07720613479614258 seconds
+2018-10-19 14:08:21,915 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.260573625564575 seconds
+2018-10-19 14:08:21,934 - root - INFO - ###############################  End  ###############################
+2018-10-19 14:17:35,895 - root - INFO - ############################### START ###############################
+2018-10-19 14:17:38,063 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.1618220806121826 seconds
+2018-10-19 14:17:39,220 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1500892639160156 seconds
+2018-10-19 14:17:40,031 - root - INFO - SUCCESS    Navigated to http://admin-html-staging.gchoicetech.com.cn:10083/login, Spend 0.8048849105834961 seconds
+2018-10-19 14:17:42,142 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="app"]/div/div/div[1]/input> content: admin, Spend 0.09776115417480469 seconds
+2018-10-19 14:17:42,241 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="app"]/div/div/div[2]/input> content: 123456, Spend 0.09225273132324219 seconds
+2018-10-19 14:17:42,315 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div/div[3]/div/button>, Spend 0.06768107414245605 seconds
+2018-10-19 14:17:49,516 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1952502727508545 seconds
+2018-10-19 14:17:49,527 - root - INFO - ###############################  End  ###############################
+2018-10-19 14:31:01,325 - root - INFO - ############################### START ###############################
+2018-10-19 14:31:03,534 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.2021262645721436 seconds
+2018-10-19 14:31:04,675 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1348373889923096 seconds
+2018-10-19 14:31:05,451 - root - INFO - SUCCESS    Navigated to http://admin-html-staging.gchoicetech.com.cn:10083/login, Spend 0.766995906829834 seconds
+2018-10-19 14:31:07,639 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="app"]/div/div/div[1]/input> content: admin, Spend 0.1738274097442627 seconds
+2018-10-19 14:31:07,731 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="app"]/div/div/div[2]/input> content: 123456, Spend 0.08657979965209961 seconds
+2018-10-19 14:31:07,803 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div/div[3]/div/button>, Spend 0.06657648086547852 seconds
+2018-10-19 14:31:15,010 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2028543949127197 seconds
+2018-10-19 14:31:15,028 - root - INFO - ###############################  End  ###############################
+2018-10-19 14:39:15,129 - root - INFO - ############################### START ###############################
+2018-10-19 14:39:17,476 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.339371681213379 seconds
+2018-10-19 14:39:18,600 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1163270473480225 seconds
+2018-10-19 14:39:19,535 - root - INFO - SUCCESS    Navigated to http://admin-html-staging.gchoicetech.com.cn:10083/login, Spend 0.9219613075256348 seconds
+2018-10-19 14:39:21,643 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="app"]/div/div/div[1]/input> content: admin, Spend 0.09726071357727051 seconds
+2018-10-19 14:39:21,735 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="app"]/div/div/div[2]/input> content: 123456, Spend 0.0872344970703125 seconds
+2018-10-19 14:39:21,811 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div/div[3]/div/button>, Spend 0.06868433952331543 seconds
+2018-10-19 14:39:29,039 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2218668460845947 seconds
+2018-10-19 14:39:29,055 - root - INFO - ###############################  End  ###############################
+2018-10-19 14:53:54,036 - root - INFO - ############################### START ###############################
+2018-10-19 14:53:56,260 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.217979669570923 seconds
+2018-10-19 14:53:57,411 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1454079151153564 seconds
+2018-10-19 14:53:59,602 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1772608757019043 seconds
+2018-10-19 14:53:59,619 - root - INFO - ###############################  End  ###############################
+2018-10-19 14:56:46,003 - root - INFO - ############################### START ###############################
+2018-10-19 14:56:48,202 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.19272780418396 seconds
+2018-10-19 14:56:49,354 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.143730878829956 seconds
+2018-10-19 14:56:51,541 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.169605255126953 seconds
+2018-10-19 14:56:51,552 - root - INFO - ###############################  End  ###############################
+2018-10-19 14:58:03,224 - root - INFO - ############################### START ###############################
+2018-10-19 14:58:05,501 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.2716429233551025 seconds
+2018-10-19 14:58:06,619 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1127991676330566 seconds
+2018-10-19 14:58:08,785 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1534676551818848 seconds
+2018-10-19 14:58:08,801 - root - INFO - ###############################  End  ###############################
+2018-10-19 15:09:19,957 - root - INFO - ############################### START ###############################
+2018-10-19 15:09:22,239 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.274913787841797 seconds
+2018-10-19 15:09:23,366 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1222386360168457 seconds
+2018-10-19 15:09:28,040 - root - INFO - SUCCESS    Navigated to http://admin-html-staging.gchoicetech.com.cn:10083/login, Spend 4.662995100021362 seconds
+2018-10-19 15:09:30,095 - root - INFO - FAIL    Unable to clear and type element: <xpath->//*[@id="app"]/div/div/div[1]/input> content: {'name': 'admin', 'pwd': 123456.0}, Spend 0.043114662170410156 seconds
+2018-10-19 15:09:32,282 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.17724609375 seconds
+2018-10-19 15:09:32,301 - root - INFO - ###############################  End  ###############################
+2018-10-19 15:11:57,154 - root - INFO - ############################### START ###############################
+2018-10-19 15:11:59,388 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.2291476726531982 seconds
+2018-10-19 15:12:00,533 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1389532089233398 seconds
+2018-10-19 15:12:05,940 - root - INFO - SUCCESS    Navigated to http://admin-html-staging.gchoicetech.com.cn:10083/login, Spend 5.394068241119385 seconds
+2018-10-19 15:12:08,064 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="app"]/div/div/div[1]/input> content: admin, Spend 0.11737227439880371 seconds
+2018-10-19 15:12:08,162 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="app"]/div/div/div[2]/input> content: 123456, Spend 0.09336137771606445 seconds
+2018-10-19 15:12:08,237 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div/div[3]/div/button>, Spend 0.07011103630065918 seconds
+2018-10-19 15:12:12,474 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2294349670410156 seconds
+2018-10-19 15:12:12,482 - root - INFO - ###############################  End  ###############################
+2018-10-19 15:16:02,217 - root - INFO - ############################### START ###############################
+2018-10-19 15:16:04,433 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.210602045059204 seconds
+2018-10-19 15:16:05,595 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.155083417892456 seconds
+2018-10-19 15:16:07,776 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1549344062805176 seconds
+2018-10-19 15:16:07,793 - root - INFO - ###############################  End  ###############################
+2018-10-19 15:17:28,705 - root - INFO - ############################### START ###############################
+2018-10-19 15:17:30,934 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.2234318256378174 seconds
+2018-10-19 15:17:32,095 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1520578861236572 seconds
+2018-10-19 15:17:39,674 - root - INFO - SUCCESS    Navigated to http://admin-html-staging.gchoicetech.com.cn:10083/login, Spend 7.542216062545776 seconds
+2018-10-19 15:17:41,819 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="app"]/div/div/div[1]/input> content: admin, Spend 0.132904052734375 seconds
+2018-10-19 15:17:41,907 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="app"]/div/div/div[2]/input> content: 123456, Spend 0.0832223892211914 seconds
+2018-10-19 15:17:41,979 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div/div[3]/div/button>, Spend 0.06517672538757324 seconds
+2018-10-19 15:17:46,217 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.230868339538574 seconds
+2018-10-19 15:17:46,236 - root - INFO - ###############################  End  ###############################
+2018-10-19 15:18:40,999 - root - INFO - ############################### START ###############################
+2018-10-19 15:18:43,200 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.195673942565918 seconds
+2018-10-19 15:18:44,351 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1408710479736328 seconds
+2018-10-19 15:18:46,204 - root - INFO - SUCCESS    Navigated to http://admin-html-staging.gchoicetech.com.cn:10083/login, Spend 1.8404085636138916 seconds
+2018-10-19 15:18:48,315 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="app"]/div/div/div[1]/input> content: admin, Spend 0.09970545768737793 seconds
+2018-10-19 15:18:48,405 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="app"]/div/div/div[2]/input> content: 123456, Spend 0.08422565460205078 seconds
+2018-10-19 15:18:48,483 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="app"]/div/div/div[3]/div/button>, Spend 0.07119059562683105 seconds
+2018-10-19 15:18:52,728 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.23757004737854 seconds
+2018-10-19 15:18:52,750 - root - INFO - ###############################  End  ###############################
+2019-02-14 14:30:54,084 - root - INFO - ############################### START ###############################
+2019-02-14 14:31:15,550 - root - INFO - ############################### START ###############################
+2019-02-14 14:50:17,787 - root - INFO - ############################### START ###############################
+2019-02-14 14:52:51,011 - root - INFO - ############################### START ###############################
+2019-02-14 15:00:51,036 - root - INFO - ############################### START ###############################
+2019-02-14 15:00:51,046 - root - INFO - ############################### START ###############################
+2019-02-14 15:05:10,985 - root - INFO - ############################### START ###############################
+2019-02-14 15:07:02,347 - root - INFO - ############################### START ###############################
+2019-02-14 15:07:02,356 - root - INFO - ############################### START ###############################
+2019-02-14 15:08:47,074 - root - INFO - ############################### START ###############################
+2019-02-14 15:09:40,543 - root - INFO - ############################### START ###############################
+2019-02-14 15:09:40,552 - root - INFO - ############################### START ###############################
+2019-02-14 18:25:41,315 - root - INFO - ############################### START ###############################
+2019-02-14 18:30:40,652 - root - INFO - ############################### START ###############################
+2019-02-14 18:30:40,660 - root - INFO - ############################### START ###############################
+2019-02-14 18:31:00,361 - root - INFO - ############################### START ###############################
+2019-02-14 18:31:02,122 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 1.7560737133026123 seconds
+2019-02-14 18:31:03,246 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1193962097167969 seconds
+2019-02-14 18:31:03,616 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.36338305473327637 seconds
+2019-02-14 18:31:03,743 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.12366962432861328 seconds
+2019-02-14 18:31:03,810 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.061835527420043945 seconds
+2019-02-14 18:31:05,819 - root - INFO - SUCCESS    Get current window title, Spend 0.0037050247192382812 seconds
+2019-02-14 18:31:07,909 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.0863406658172607 seconds
+2019-02-14 18:31:07,914 - root - INFO - ###############################  End  ###############################
+2019-02-14 18:31:07,918 - root - INFO - ############################### START ###############################
+2019-02-14 18:31:09,974 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.050400733947754 seconds
+2019-02-14 18:31:11,109 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1205692291259766 seconds
+2019-02-14 18:31:11,519 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.3590216636657715 seconds
+2019-02-14 18:31:11,647 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: webdriver, Spend 0.12412095069885254 seconds
+2019-02-14 18:31:11,724 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.07193207740783691 seconds
+2019-02-14 18:31:13,734 - root - INFO - SUCCESS    Get current window title, Spend 0.0038933753967285156 seconds
+2019-02-14 18:31:13,849 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.11070418357849121 seconds
+2019-02-14 18:31:13,951 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: selenium, Spend 0.09583020210266113 seconds
+2019-02-14 18:31:14,012 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.05682039260864258 seconds
+2019-02-14 18:31:16,021 - root - INFO - SUCCESS    Get current window title, Spend 0.002965211868286133 seconds
+2019-02-14 18:31:16,135 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.10970711708068848 seconds
+2019-02-14 18:31:16,230 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: github, Spend 0.08973026275634766 seconds
+2019-02-14 18:31:16,283 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.049866437911987305 seconds
+2019-02-14 18:31:18,295 - root - INFO - SUCCESS    Get current window title, Spend 0.0029697418212890625 seconds
+2019-02-14 18:31:18,422 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.12165045738220215 seconds
+2019-02-14 18:31:18,538 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.10970616340637207 seconds
+2019-02-14 18:31:18,612 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.06881546974182129 seconds
+2019-02-14 18:31:20,622 - root - INFO - SUCCESS    Get current window title, Spend 0.0029277801513671875 seconds
+2019-02-14 18:31:22,712 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.086300849914551 seconds
+2019-02-14 18:31:22,716 - root - INFO - ###############################  End  ###############################
+2019-02-14 18:36:26,518 - root - INFO - ############################### START ###############################
+2019-02-14 18:36:28,600 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.0754384994506836 seconds
+2019-02-14 18:36:29,736 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1196231842041016 seconds
+2019-02-14 18:36:31,832 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.068962335586548 seconds
+2019-02-14 18:36:31,836 - root - INFO - ###############################  End  ###############################
+2019-02-14 18:39:45,476 - root - INFO - ############################### START ###############################
+2019-02-14 18:39:47,537 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.055850028991699 seconds
+2019-02-14 18:39:48,671 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1226184368133545 seconds
+2019-02-14 18:39:49,067 - root - INFO - SUCCESS    Navigated to http://login.test.rusuogroup.com/login.html, Spend 0.3907957077026367 seconds
+2019-02-14 18:39:51,162 - root - INFO - SUCCESS    Clear and type element: <xpath->/html/body/div[1]/form/div[1]/input> content: gwb, Spend 0.08973264694213867 seconds
+2019-02-14 18:39:51,236 - root - INFO - SUCCESS    Clear and type element: <xpath->/html/body/div[1]/form/div[2]/input> content: gwb888, Spend 0.06881356239318848 seconds
+2019-02-14 18:39:52,103 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="login"]>, Spend 0.8606982231140137 seconds
+2019-02-14 18:39:59,173 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.0657296180725098 seconds
+2019-02-14 18:39:59,178 - root - INFO - ###############################  End  ###############################
+2019-02-14 18:40:10,631 - root - INFO - ############################### START ###############################
+2019-02-14 18:40:12,691 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.0554134845733643 seconds
+2019-02-14 18:40:13,820 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1225786209106445 seconds
+2019-02-14 18:40:13,948 - root - INFO - SUCCESS    Navigated to http://login.test.rusuogroup.com/login.html, Spend 0.12264657020568848 seconds
+2019-02-14 18:40:16,041 - root - INFO - SUCCESS    Clear and type element: <xpath->/html/body/div[1]/form/div[1]/input> content: gwb, Spend 0.08705639839172363 seconds
+2019-02-14 18:40:16,115 - root - INFO - SUCCESS    Clear and type element: <xpath->/html/body/div[1]/form/div[2]/input> content: gwb888, Spend 0.06900477409362793 seconds
+2019-02-14 18:40:16,956 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="login"]>, Spend 0.8364503383636475 seconds
+2019-02-14 18:40:24,025 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.063772439956665 seconds
+2019-02-14 18:40:24,030 - root - INFO - ###############################  End  ###############################
+2019-02-14 18:40:34,306 - root - INFO - ############################### START ###############################
+2019-02-14 18:40:36,373 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.063448667526245 seconds
+2019-02-14 18:40:37,503 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1252737045288086 seconds
+2019-02-14 18:40:37,625 - root - INFO - SUCCESS    Navigated to http://login.test.rusuogroup.com/login.html, Spend 0.11666440963745117 seconds
+2019-02-14 18:40:39,721 - root - INFO - SUCCESS    Clear and type element: <xpath->/html/body/div[1]/form/div[1]/input> content: gwb, Spend 0.08966183662414551 seconds
+2019-02-14 18:40:39,791 - root - INFO - SUCCESS    Clear and type element: <xpath->/html/body/div[1]/form/div[2]/input> content: gwb888, Spend 0.06482744216918945 seconds
+2019-02-14 18:40:40,628 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="login"]>, Spend 0.8324835300445557 seconds
+2019-02-14 18:40:47,699 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.0647168159484863 seconds
+2019-02-14 18:40:47,703 - root - INFO - ###############################  End  ###############################
+2019-02-14 18:45:33,238 - root - INFO - ############################### START ###############################
+2019-02-14 18:45:35,317 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.072528600692749 seconds
+2019-02-14 18:45:36,442 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1208350658416748 seconds
+2019-02-14 18:45:41,383 - root - INFO - SUCCESS    Navigated to http://biz.test.rusuogroup.com, Spend 4.934741258621216 seconds
+2019-02-14 18:45:43,473 - root - INFO - SUCCESS    Clear and type element: <xpath->/html/body/div[1]/form/div[1]/input> content: gwb, Spend 0.08452081680297852 seconds
+2019-02-14 18:45:43,546 - root - INFO - SUCCESS    Clear and type element: <xpath->/html/body/div[1]/form/div[2]/input> content: gwb888, Spend 0.06881594657897949 seconds
+2019-02-14 18:45:45,245 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="login"]>, Spend 1.6948368549346924 seconds
+2019-02-14 18:45:52,316 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.0652079582214355 seconds
+2019-02-14 18:45:52,321 - root - INFO - ###############################  End  ###############################
+2019-02-14 18:46:00,849 - root - INFO - ############################### START ###############################
+2019-02-14 18:46:02,915 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 2.061741590499878 seconds
+2019-02-14 18:46:04,039 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1207671165466309 seconds
+2019-02-14 18:46:04,932 - root - INFO - SUCCESS    Navigated to http://biz.test.rusuogroup.com, Spend 0.8844881057739258 seconds
+2019-02-14 18:46:07,021 - root - INFO - SUCCESS    Clear and type element: <xpath->/html/body/div[1]/form/div[1]/input> content: gwb, Spend 0.0846257209777832 seconds
+2019-02-14 18:46:07,089 - root - INFO - SUCCESS    Clear and type element: <xpath->/html/body/div[1]/form/div[2]/input> content: gwb888, Spend 0.06185460090637207 seconds
+2019-02-14 18:46:08,813 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="login"]>, Spend 1.7178804874420166 seconds
+2019-02-14 18:46:15,878 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.0616438388824463 seconds
+2019-02-14 18:46:15,882 - root - INFO - ###############################  End  ###############################
